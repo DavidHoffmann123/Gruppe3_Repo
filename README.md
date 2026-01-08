@@ -1,7 +1,8 @@
 # Gruppe3\_Repo
 
-Juan war hier
 
 Marlena auch
 
 Ben auch
+
+alpha auch 
